@@ -1,0 +1,31 @@
+C:\My_WordPad\My_WordPad\bin\Debug\My_WordPad.exe.config
+C:\My_WordPad\My_WordPad\bin\Debug\My_WordPad.exe
+C:\My_WordPad\My_WordPad\bin\Debug\My_WordPad.pdb
+C:\My_WordPad\My_WordPad\obj\Debug\My_WordPad.csproj.AssemblyReference.cache
+C:\My_WordPad\My_WordPad\obj\Debug\My_WordPad.Form1.resources
+C:\My_WordPad\My_WordPad\obj\Debug\My_WordPad.Properties.Resources.resources
+C:\My_WordPad\My_WordPad\obj\Debug\My_WordPad.csproj.GenerateResource.cache
+C:\My_WordPad\My_WordPad\obj\Debug\My_WordPad.csproj.CoreCompileInputs.cache
+C:\My_WordPad\My_WordPad\obj\Debug\My_WordPad.exe
+C:\My_WordPad\My_WordPad\obj\Debug\My_WordPad.pdb
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\bin\Debug\My_WordPad.exe.config
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\bin\Debug\My_WordPad.exe
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\bin\Debug\My_WordPad.pdb
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\obj\Debug\My_WordPad.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\obj\Debug\My_WordPad.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\obj\Debug\My_WordPad.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\obj\Debug\My_WordPad.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\obj\Debug\My_WordPad.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\obj\Debug\My_WordPad.exe
+C:\Users\ASUS\OneDrive\Desktop\Học Kì Mỡi\Giao Diện Ứng Dụng\Thi\My_WordPad\My_WordPad\obj\Debug\My_WordPad.pdb
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\bin\Debug\My_WordPad.exe.config
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\bin\Debug\My_WordPad.exe
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\bin\Debug\My_WordPad.pdb
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\obj\Debug\My_WordPad.csproj.AssemblyReference.cache
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\obj\Debug\My_WordPad.Form1.resources
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\obj\Debug\My_WordPad.Properties.Resources.resources
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\obj\Debug\My_WordPad.csproj.GenerateResource.cache
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\obj\Debug\My_WordPad.csproj.CoreCompileInputs.cache
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\obj\Debug\My_WordPad.exe
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\obj\Debug\My_WordPad.pdb
+C:\Users\thuyl\Downloads\MYPAD2\My_WordPad\obj\Debug\My_WordPad.FindReplaceForm.resources
